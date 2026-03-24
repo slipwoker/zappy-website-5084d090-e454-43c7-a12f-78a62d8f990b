@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לסקווישי לנד! צללו לעולם של סקווישים רכים וחמודים שיגנבו את הלב. אוסף מיוחד של סקווישים לילדים וחובבי אספנות — התחילו לגלות עכשיו!
+
+### יצירות נבחרות
+https://example.com/collection-highlights
+הציצו אל הסקווישים הנבחרים והמיוחדים ביותר באוסף! כל סקווישי רך וחמוד נבחר באהבה ומחכה שתתאהבו בו. גלו את הפנינים שהפכו את האוסף הזה לחלום של כל אספן סקווישי!
+
+### אודות
+https://example.com/about
+מי עומד מאחורי סקווישי לנד? הכירו את הלב הפועם של האוסף — חובב סקווישים אמיתי שהפך את התשוקה לסקווישים רכים וחמודים לעולם שלם. קראו את הסיפור שיגרום לכם לחייך!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות, רעיונות או סתם רוצים לשתף אהבה לסקווישים? אנחנו מחכים לשמוע מכם! פנו אלינו בסקווישי לנד ונחזור אליכם בחיוך רחב כמו הסקווישים הכי חמודים באוסף.
+
+### Products
+https://example.com/products
+המוצרים שלנו - סקווישי לנד
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - סקווישי לנד
+
+### Category
+https://example.com/category/:slug
+מוצרים - סקווישי לנד
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
